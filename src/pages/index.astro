@@ -11,6 +11,7 @@ import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
 import Pill from '../components/Pill.astro';
 import PortfolioPreview from '../components/PortfolioPreview.astro';
+// import { Icon } from 'astro-icon/components';
 
 // Page section components
 import ContactCTA from '../components/ContactCTA.astro';
@@ -35,9 +36,9 @@ const projects = (await getCollection('work'))
 					align="start"
 				>
 					<div class="roles">
-						<Pill><Icon icon="code" size="1.33em" /> Mechanical Engineer</Pill>
-						<Pill><Icon icon="microphone-stage" size="1.33em" /> Robotics</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Designer</Pill>
+						<Pill><Icon icon="Hammer" size="1.33em" /> Mechanical Engineer</Pill>
+						<Pill><Icon icon="Nut" size="1.33em" /> Robotics</Pill>
+						<Pill><Icon icon="PencilRuler" size="1.33em" /> Designer</Pill>
 					</div>
 				</Hero>
 
@@ -56,7 +57,6 @@ const projects = (await getCollection('work'))
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
 					<h3>My projects</h3>
-					<p>A collection of my projects </p>
 				</header>
 
 				<div class="gallery">
