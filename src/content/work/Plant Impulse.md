@@ -3,8 +3,7 @@ title: Plant Impulse
 publishDate: 2023-10-20 00:00:00
 img: /assets/plantimpulse.webp
 img_alt: Impulse v3.5 with glowing eyes
-description: Plant Impulse
-  Fully 3D Printed Combat Robots (2023-2024)
+description: Fully 3D Printed Combat Robots (2023-2024)
 tags:
   - Solidworks CAD
   - 3D Printing
