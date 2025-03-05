@@ -4,7 +4,7 @@ publishDate: 2020-05-20 00:00:00
 img: /assets/FRC image.jpg
 img_alt: 148 2018 robot, Uppercut holding a power cube game element
 description: |
-  On the design, electrical, and fabrication team during 2018-2020
+  Design, electrical, and fabrication (2018-2020)
 tags:
   - Solidworks CAD
   - Electronics
@@ -20,11 +20,15 @@ tags:
 
 
 ##### 2020:
- As part of our offseason after 2019, we made X19 a swerve test bed. I assisted the design team with integrating the COTS swerve modules with a new design method for the team. 148 had previously relied exxtensively on sheet metal construction, but X19 was a test of using aluminum extrusion and markforge printed brackets to adapt the different structural pieces. This design was a huge success and a great programming platform for the team leading into 2020. While I was lucky enough to help once again to design the drive, the turret, and system integration in 2020, the season was cut short due to covid.
+ As part of our offseason after 2019 we made X19, a swerve drive test bot. I assisted the design team with integrating the COTS swerve modules with a new design method for the team. 148 had previously relied exxtensively on sheet metal construction, but X19 was a test of using aluminum extrusion and markforge printed brackets to adapt the different structural pieces. This design was a huge success and a great programming platform for the team leading into 2020. While I was lucky enough to help once again to design the drive, the turret, and system integration in 2020, the season was cut short due to covid.
 
+---
 
+##### 2018 Robot in the Pits
 ![](FRC148-2.png)
 
+##### 2018 Robot Promo Shot
 ![](UppercutEdit.png)
 
+##### Early Lifter Mechanism from 2019
 ![](lifterfrc.png)

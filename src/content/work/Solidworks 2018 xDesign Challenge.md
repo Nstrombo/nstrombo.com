@@ -4,7 +4,7 @@ publishDate: 2019-01-01 00:00:00
 img: /assets/landerexplode.gif
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  A Sci-fi Lunar Lander (2018)
 tags:
   - Solidworks xDesign
   - Design
@@ -17,6 +17,8 @@ During the off season of FRC after my first year on the team, I was tasked with 
 Designing the lunar lander, my teammate and I had to be agile, collaborative, and creative! To design on a team, we had to employ what we had learned from robotics and segment the rover into sub-assemblies, and ensure that all sub-assemblies could be brought together into the main assembly as we designed. We produced an assembly with proper constraints and was highly parametric.
 
 We were awarded second place for the design, and my teammate and I were invited to speak at Solidworks Worlds 2019 to discuss collaboration in design and to highlight education efforts by Solidworks. We were also invited to have a booth during the Solidworks Worlds convention, showcasing our 2018 FRC robot Uppercut! I spent several hours in the booth, talking to professional engineers, design team leaders, and just running our robot through some scoring drills.
+
+---
 
 ![](doors.jpg)
 

@@ -2,9 +2,9 @@
 title: Combat Blocks
 publishDate: 2025-03-04 00:00:00
 img: /assets/Combat Blocks 1.jpg
-img_alt: Standing in front of our "store" of combat block parts
+img_alt: Natalie standing in front of our "store" of combat block parts
 description: |
-  Developed a modular combat robot system for high school outreach
+  Modular Combat Robot System for High School Outreach
 tags:
   - Solidworks CAD
   - Modular Design
@@ -15,18 +15,29 @@ Combat Blocks is a project I'm incredibly proud of. I led the development of a m
 
 We hosted nine workshops, each attended by 40-60 high school students, where we taught them to design, build, and compete with their custom robots. Seeing their engagement and enthusiasm grow was incredibly rewarding, and it led to a threefold increase in school requests for future workshops. We even presented our robots to Tech Titans of Dallas, becoming finalists for the "Tech Titans of the Future" award, which highlighted the project's impact on promoting STEM education and inspiring the next generation of engineers and innovators.
 
+---
+
+##### The Tech-Titans Panel (Pre-Workshop)
+Me speaking to the highschoolers about transitioning from highschool to college, and finding your passion.
+![Natalie standing in front of a projector screen wearing a grey shirt. She is speaking to the highschool audience.](Combatblocksworkshop.png)
+
+##### Assembly
+Showing a team the screw placement for their robot.
+![Natalie handing over a screwdriver to a student after getting the screws started in a robot.](combatblocksassem.webp)
 
 ##### Animation of the Robots
-![](Combatblocks.webp)
+2v2 robot combat chaos unfolding.
+![4 robots spinning their weapons and attacking each other. A robot with an orange drum spinner knocks off an armor piece from a green horizontal spinner robot. A blue horizontal spinner robot has lost one of it's drive sides and is spinning in circles.](Combatblocks.webp)
 
-
-##### The Tech-Titans Panel (pre workshop)
-![](Combatblocksworkshop.png)
-
-
-##### Early Workshop Bots
-![](Combatblocks2.jpg)
+##### Student Built Bots
+After the high schoolers leave, we usually take an opportunity to take a photo of the bots they created and the aftermath!
+![Combat Blocks sitting in the battlebox. Some of the robots have broken weapons and armor pieces.](Combatblocks2.jpg)
 
 
 ##### Combat Blocks CAD
-![](Combatblockscad.png)
+One of the several test assemblies to ensure configurations would work together.
+![An assembly of different spacer blocks on a horizontal spinner configuration of robot.](Combatblockscad.png)
+
+##### Battlebox
+A large part of putting on our first workshop was getting our 8'x8' battlebox built. Construction of the Battlebox was thoroughly thought out and used incredible bent polycarb corners to create a nearly seamless viewing experience inside.
+![Natalie holding two sheets together while Neil drills through the polycarbonate. Natalie is wearing a grey jacket with rolled up sleeves, Neil is wearing a blue and black jacket and safety glasses.](Battlebox.jpg)
