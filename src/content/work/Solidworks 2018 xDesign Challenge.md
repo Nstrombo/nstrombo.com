@@ -1,7 +1,7 @@
 ---
 title: xDesign Challenge 2018
 publishDate: 2020-03-02 00:00:00
-img: /assets/Lunar Lander 1.jpg
+img: /assets/landerexplode.gif
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
@@ -18,4 +18,7 @@ Designing the lunar lander
 
 We were awarded second place for the design, and my teammate and I were invited to speak at Solidworks Worlds 2019 to discuss collaboration in design and to highlight education efforts by Solidworks. We were also invited to have a booth during the Solidworks Worlds convention, showcasing our 2018 FRC robot Uppercut! I spent several hours in the booth, talking to professional engineers, design team leaders, and just running our robot through some scoring drills.
 
-![Lunar Lander 2](assets/Lunar Lander 2.jpg)
+
+![Lunar Lander 2](LunarLander2.jpg)
+
+![LunarLander3](LunarLander1.jpg)

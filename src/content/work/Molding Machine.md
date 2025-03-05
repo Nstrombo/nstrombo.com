@@ -11,4 +11,14 @@ tags:
   - Sheet Metal
 ---
 
-Getting inspiration from programmable metal stamping machines that use several small linear actuators to create stamped sheet metal without one-off tooling, I embarked on a several month long project to design and build a 2.5-D molding machine. Using a similar design of linear actuators in a grid, 3D printed toppers could be attached to the tops of the actuators to create detailed topography with lots of height change. I worked with a partner, who created a program for importing 3D models, generating G-Code, and controlling the machine. The final prototype was able to create a dome using less material and in less time. I used 3D printing, sheetmetal, extrusion, and modular design techniques to make an easily assembleable machine with many repeating components. I also coded the arduino based control system, and made a custom carrier board for the stepper motor drivers.
+Getting inspiration from programmable metal stamping machines that use several small linear actuators to create stamped sheet metal without one-off tooling, I embarked on a several month long project to design and build a 2.5-D molding machine. Using a similar design of linear actuators in a grid, 3D printed toppers could be attached to the tops of the actuators to create detailed topography with lots of height change. I worked with a partner, who created a program for importing 3D models, generating G-Code, and controlling the machine. 
+
+The final prototype was able to create a dome using less material and in less time. I used 3D printing, sheetmetal, extrusion, and modular design techniques to make an easily assembleable machine with many repeating components. I also coded the arduino based control system, and made a custom carrier board for the stepper motor drivers.
+
+
+##### Animation of the machine with the test "dome" model
+![Molding Machine moving up and down](moldingmachine2.gif)
+
+
+##### Early physical prototype
+![Molding Machine model in person](moldingmachine3.jpg)
