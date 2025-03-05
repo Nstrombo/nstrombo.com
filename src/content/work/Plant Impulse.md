@@ -1,9 +1,9 @@
 ---
 title: Plant Impulse
 publishDate: 2019-10-02 00:00:00
-img: /assets/plantimpulsev35.jpg
+img: /assets/plantimpulse.webp
 img_alt: Impulse v3.5 with glowing eyes
-description: |
+description: Plant Impulse
   Fully 3D printed combat robots
 tags:
   - Solidworks CAD
