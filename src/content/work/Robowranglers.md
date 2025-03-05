@@ -26,3 +26,5 @@ tags:
 ![](FRC148-2.png)
 
 ![](UppercutEdit.png)
+
+![](lifterfrc.png)

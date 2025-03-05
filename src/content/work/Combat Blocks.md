@@ -26,3 +26,7 @@ We hosted nine workshops, each attended by 40-60 high school students, where we 
 
 ##### Early Workshop Bots
 ![](Combatblocks2.jpg)
+
+
+##### Combat Blocks CAD
+![](Combatblockscad.png)
