@@ -20,7 +20,7 @@ tags:
 
 
 ##### 2020:
- As part of our offseason after 2019 we made X19, a swerve drive test bot. I assisted the design team with integrating the COTS swerve modules with a new design method for the team. 148 had previously relied exxtensively on sheet metal construction, but X19 was a test of using aluminum extrusion and markforge printed brackets to adapt the different structural pieces. This design was a huge success and a great programming platform for the team leading into 2020. While I was lucky enough to help once again to design the drive, the turret, and system integration in 2020, the season was cut short due to covid.
+ As part of our offseason after 2019 we made X19, a swerve drive test bot. I assisted the design team with integrating the COTS swerve modules with a new design method for the team. 148 had previously relied extensively on sheet metal construction, but X19 was a test of using aluminum extrusion and markforge printed brackets to adapt the different structural pieces. This design was a huge success and a great programming platform for the team leading into 2020. While I was lucky enough to help once again to design the drive, the turret, and system integration in 2020, the season was cut short due to covid.
 
 ---
 
