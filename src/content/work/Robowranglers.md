@@ -1,6 +1,6 @@
 ---
 title: FRC team 148
-publishDate: 2020-03-04 00:00:00
+publishDate: 2020-05-20 00:00:00
 img: /assets/FRC image.jpg
 img_alt: 148 2018 robot, Uppercut holding a power cube game element
 description: |
