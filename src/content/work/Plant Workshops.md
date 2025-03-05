@@ -15,9 +15,11 @@ tags:
 
 ![Natalie teaching a member 3D Printing](plantworkshops2.png)
 
+##### Workshops
 Over 4 semesters I hosted workshops to more than 300 students at UTD, teaching them the basics of robotics, combat robotics, and CAD. In these workshops, I moved through the strategies in combat robotics, how to design a combat robot, and finally 3D printing a design and putting it together. The plant workshops were extremely successful, starting with just 15 or so members in summer of 2023, we grew that number to over 150 by Fall 2024. Over these semesters, I also made several of my own plants. Each plant has a story, so I compiled them on this page.
 
 ---
+#### My Robots
 
 ##### DotIO
 DotIO is a Plant 4wd vertical spinner. It hits extremely hard with an "all reach, no control" strategy. The weapon reaches so far in front of the robot DotIO would sometimes do front flips just spinning up the weapon! V1 was a very large robot, which meant that it was not very dense. This was fixed in V2 where DotIO got a very compact make-over and a geared drivetrain. Using printed gears, it's one of the few Plants with true 4wd making it fast and agile around the box.
