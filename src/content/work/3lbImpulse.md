@@ -30,3 +30,4 @@ Impulse used custom molded tires made of 20A urethane for unparalleled grip. It'
 Following the dessert themed branding of our April 2025 NHRL bid, Meringue is a spiritual Impulse V2. Boasting an upgraded design, aesthetics, and most importantly electronics, Meringue is the culmination of hundreds of hours of work testing, driving, and fighting 3lb Impulse. Meringue is set to debut on April 5th, sporting an upgraded weapon motor, chassis, tails and drive train. Come back to this page after April for an update!
 
 
+![Meringue's weapon in FEA analysis, visualizing how a force on the weapon's tooth creates stress points in the geometry](MeringueFEA.jpg)
