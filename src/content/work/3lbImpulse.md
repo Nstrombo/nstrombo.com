@@ -27,6 +27,8 @@ Impulse uses custom molded tires made of 20A urethane for unparalleled grip. It'
 
 ##### Meringue
 
+[Click Here To Open Meringue](/Meringue.html)
+
 Following the dessert themed branding of our April 2025 NHRL bid, Meringue is a spiritual Impulse V2. Boasting an upgraded design, aesthetics, and electronics, Meringue is the culmination of hundreds of hours of work designing, testing, and fighting combat robots. Meringue is set to debut on April 5th with a slick and optimized design. Come back to this page after April for an update!
 
 
