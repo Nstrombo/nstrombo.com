@@ -7,6 +7,13 @@ body {
     font-family: sans-serif;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    max-height:100%;
+    overflow-y: hidden;
+}
+
 header {
     padding: 0px 0px 10px 0px;
     display: flex;
@@ -58,10 +65,10 @@ button:hover {
 
 @media (prefers-color-scheme: dark) {
     body {
-        color: #eee;
-        background-color: #333;
+        color: #ffffff;
+        background-color: #090b11;
     }
     .svg-button svg g path {
-        fill: #eee !important;
+        fill: #ffffff !important;
     }
 }
