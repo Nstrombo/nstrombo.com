@@ -2,7 +2,7 @@
 title: xDesign Challenge 2018
 publishDate: 2019-01-01 00:00:00
 img: /assets/landerexplode.gif
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Animation of the exploded view of the lunar lander cad. All the components, like the legs, solar panels, and cabin all seperate into their components
 description: |
   A Sci-fi Lunar Lander (2018)
 tags:

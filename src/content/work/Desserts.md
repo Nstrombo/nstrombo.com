@@ -2,7 +2,7 @@
 title: Desserts 15lb
 publishDate: 2024-03-12 00:00:00
 img: /assets/Desserts1.JPG
-img_alt: Standing in front of our "store" of combat block parts
+img_alt: Comet Robotics team in red jerseys. Natalie is in front holding Desserts, the 15lb combat robot.
 description: |
   Large-Scale Combat Robotics Takes a Team
 tags:

@@ -2,7 +2,7 @@
 title: Molding Machine
 publishDate: 2022-12-01 00:00:00
 img: /assets/Molding Machine.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Molding Machine in CAD. Stepper motors below, with spaced sheetmetal and rubber spiders holding the lead screws. The machine is grey and black on a checkered floor
 description: |
   Reduced waste and labor time in the mold making process
 tags:
