@@ -46,7 +46,7 @@ header .project-name {
 @media (prefers-color-scheme: dark) {
     body {
         color: #ffffff;
-        background-color: #090b11;
+        /*background-color: #090b11;*/
     }
     .svg-button svg g path {
         fill: #090b11 !important;
