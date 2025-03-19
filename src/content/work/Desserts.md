@@ -17,6 +17,20 @@ Desserts is a 15/12lb robot designed for the 2024 Bots IQ competition held at SX
 
 ---
 
+  <div class="stack gap-10 content">
+    <div class="content">
+      <iframe 
+        src="/assets/Desserts%20Render/Data/index.html"
+        width="100%"
+        height="450px"
+        style="border: none;" 
+        allowfullscreen="true"
+        background-color="#3c3c3d"
+        >
+      </iframe>
+    </div>
+  </div>
+
 ##### Getting Desserts to the competition
 Reprogramming ESCs at 3AM gets to you, but it's cause for celebration when it works!
 ![Natalie and Jason looking at a laptop, next to Desserts. Natalie has her hands in the air in celebration and Jason is grinning](Desserts2.png)

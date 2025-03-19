@@ -1,0 +1,59 @@
+:focus-visible {
+    outline: none;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    max-height:100%;
+    overflow-y: hidden;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+header {
+    padding: 0px 0px 10px 0px;
+}
+
+header .project-name {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.push {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+#viewer {
+    /* resize: both; */
+    overflow: hidden;
+    display: inline-block;    
+    
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ffffff;
+        /*background-color: #090b11;*/
+    }
+    .svg-button svg g path {
+        fill: #090b11 !important;
+    }
+}
+
+img {
+    border-radius: 1.5rem;
+    background-color:#3c3c3d;
+}
