@@ -22,6 +22,21 @@ Over 4 semesters I hosted workshops to more than 300 students at UTD, teaching t
 #### My Robots
 
 ##### DotIO
+
+  <div class="stack gap-10 content">
+    <div class="content">
+      <iframe 
+        src="/assets/DotIO%20Render/Data/index.html"
+        width="100%"
+        height="450px"
+        style="border: none;" 
+        allowfullscreen="true"
+        background-color="#3c3c3d"
+        >
+      </iframe>
+    </div>
+  </div>
+
 DotIO is a Plant 4wd vertical spinner. It hits extremely hard with an "all reach, no control" strategy. The weapon reaches so far in front of the robot DotIO would sometimes do front flips just spinning up the weapon! V1 was a very large robot, which meant that it was not very dense. This was fixed in V2 where DotIO got a very compact make-over and a geared drivetrain. Using printed gears, it's one of the few Plants with true 4wd making it fast and agile around the box.
 (DotIO V2 Pictured)
 ![Natalie working on DotIO V2 wearing a blue jacket](dotio1.png)
