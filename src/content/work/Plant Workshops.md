@@ -21,6 +21,11 @@ Over 4 semesters I hosted workshops to more than 300 students at UTD, teaching t
 ---
 #### My Robots
 
+##### Ramsey
+Ramsey is a multibot consisting of 2, half pound robots Ram and Sey. Ramsey is named after my friend's cat. Despite it's cute connection, both Ram and Sey feature full size plastic antweight weapons. Ask any combat robot builder and they will tell you how difficult it is to create a plant multibot. Ramsey is one of my most weight optimized robots, since even half a gram is critical. Both Ram and Sey went through 10 iterations each before their first competition, TRC. At TRC they placed in the top 8 with a 3-2 record. Ramsey was accompanied by 2 other multibot competitors at TRC, but both did not have any spinning weapons, they were simple unibody control bots made to be durable and to push around their opponent. This is because more than 1/3 of Ramsey's weight is in the weapon systems, making drive ability and chassis design difficult. Ramsey was durable for what it was though, ripping apart opponents literally twice it's weight. In the end, Ramsey lost in the quarter finals to a control bot named Higher Education, which has incredible drive ability and ground game for a plant. Despite having an undercutter, Ramsey was unable to deal meaningful damage to it's opponent, and lost by judges decision based on Higher Education's control in the match.
+
+![Ram exploding after being launched by it's own weapon](Ram-explode.gif)
+
 ##### DotIO
 
   <div class="stack gap-10 content">
