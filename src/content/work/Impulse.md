@@ -43,7 +43,9 @@ Impulse uses custom molded tires made of 20A urethane for unparalleled grip. It'
 
 
 
-Following the dessert themed branding of our April 2025 NHRL bid, Meringue is a spiritual Impulse V2. Boasting an upgraded design, aesthetics, and electronics, Meringue is the culmination of hundreds of hours of work designing, testing, and fighting combat robots. Meringue is set to debut on April 5th with a slick and optimized design. Come back to this page after April for an update!
+Following the dessert themed branding of our April 2025 NHRL bid, Meringue is a spiritual Impulse V2. Boasting an upgraded design, aesthetics, and electronics, Meringue is the culmination of hundreds of hours of work designing, testing, and fighting combat robots.
+
+However, Meringue debuted with a dissapointing opening at the April NHRL. I've been working on collecting feedback from others about the design and what went wrong at competition. Meringue's critical design flaw is overestimation of both weapon size and tail material. The tails on Meringue are CNC machined UHMW plastic and the weapon is lasercut 5mm AR600 steel. Both of these materials are plenty strong and will be just fine with more agressive pocketing. By lowering the weapon and tail weight totals, I can add in parts that were planned for Meringue but had to be scrapped to make weight. With more time and more iteration on components, Meringue will be a force to be reckoned with. 
 
 
 ![Meringue's weapon in FEA analysis, visualizing how a force on the weapon's tooth creates stress points in the geometry](MeringueFEA.jpg)
